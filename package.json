@@ -1,0 +1,22 @@
+{
+  "name": "automation-learning-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qafranklin/Automation-Learning-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qafranklin/Automation-Learning-/issues"
+  },
+  "homepage": "https://github.com/qafranklin/Automation-Learning-#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  }
+}
